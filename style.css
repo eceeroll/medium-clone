@@ -1,0 +1,217 @@
+.navbar-brand {
+    font-family: fantasy;
+    font-size: 29px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.tb {
+    width: 120px;
+} 
+
+.right-top {
+    margin: 20px;
+    padding: 10px;
+}
+
+.border-bottom-dark {
+    border-bottom: rgb(41, 41, 41) 1px solid;
+}
+.navi {
+    height: 85px;
+}
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.nav-link {
+    font-weight: 400;
+}
+#nav1 {
+    margin: 10px;
+    position: relative;
+    bottom: 15px;
+}
+
+.bold {
+    font-weight: bolder;
+}
+.bg-dark {
+    background-color: black;
+    color: white;
+}
+
+.circle-button {
+    border-style: solid;
+    border-radius: 50px;
+}
+
+h1 {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 70px;
+    font-weight: 400;
+}
+
+.p1 {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 300px;
+    position: relative;
+    top: 20px;
+}
+
+#middlearea {
+    height: 477px;   
+}
+
+li {
+    font-weight: bold;
+}
+
+
+.mb {
+    width: 200px;
+    height: 40px;
+    position: relative;
+    top: 40px;
+    font-weight: bolder;
+    font-size: 19px;
+    background: rgba(25, 25, 25, 1);
+}
+
+ul {
+    position: relative;
+    left: 25px;
+}
+
+#photo-middle {
+    position: relative;
+    bottom: 90px;
+}
+
+.mid-container {
+    position: relative;
+    top: 40px;
+}
+
+.news-body {
+    font-size: 16px;
+    font-weight:900;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-overflow: ellipsis;
+    word-spacing: 0%;
+    letter-spacing: 0;
+    max-height: 40px; line-height: 20px;
+}
+.news-body-l {
+    position: relative;
+    bottom: 10px;
+}
+
+.news-title {
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 500;
+    overflow: hidden;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    position: relative;
+    top: 5px;
+}
+
+#img-n {
+    position: relative;
+    top: 5px;
+}
+.news-footer {
+    color: rgba(117, 117, 117, 1);
+    font-size: 13px;
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0;
+    position: relative;
+    bottom: 8px;
+}
+
+.news-photo {
+    width: 19px;
+    height: 19px;
+    position: relative;
+    top: 2px;
+}
+
+#sec-middlearea {
+    margin-left: 60px;
+}
+
+h6 {
+    font-size: 14px;
+    font-weight:700;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    line-height: 16px;
+    letter-spacing: 0.083em; 
+}
+
+aside {
+    position: relative;
+    top: 14px;
+}
+
+.aside-buttons > li {
+    margin-bottom: 8px;
+    padding: 0px;
+    
+}
+
+#p2 {
+    text-transform: uppercase;
+    font-size: 12px;
+    color: rgba(41, 41, 41, 1);
+    line-height: 16px;
+    font-weight: 700;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.sect {
+    border-top: 1px
+    rgba(230, 230, 230, 1);
+    padding-top: 40px;
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+}
+
+.news {
+    position: relative;
+    left: 90px;
+}
+.bottom-buttons {
+    list-style-type: none;
+
+}
+
+.bottom-buttons > li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.bottom-buttons > li > a {
+    color: rgba(117, 117, 117, 1);
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+footer{
+    float: right;
+    position: relative;
+    margin-right: 150px;
+    bottom: 600px;
+}
